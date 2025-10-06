@@ -1,0 +1,56 @@
+[
+  {
+    "id": "dental-cleaning",
+    "category": "Dental",
+    "title": "Dental Cleaning & Checkup",
+    "coverage": 80,
+    "description": "Comprehensive dental cleaning, examination, and preventive care services including fluoride treatment and oral health assessment.",
+    "icon": "🦷",
+    "color": "from-cyan-500 to-blue-600"
+  },
+  {
+    "id": "tooth-extraction",
+    "category": "Dental",
+    "title": "Tooth Extraction",
+    "coverage": 70,
+    "description": "Professional tooth extraction services including wisdom teeth removal, with post-operative care and pain management support.",
+    "icon": "🦷",
+    "color": "from-blue-500 to-indigo-600"
+  },
+  {
+    "id": "mental-health",
+    "category": "Mental Health",
+    "title": "Mental Health Counseling",
+    "coverage": 90,
+    "description": "Licensed therapy sessions for anxiety, depression, stress management, and emotional wellbeing with certified mental health professionals.",
+    "icon": "🧠",
+    "color": "from-green-500 to-emerald-600"
+  },
+  {
+    "id": "vision-test",
+    "category": "Vision",
+    "title": "Vision Test & Eye Exam",
+    "coverage": 50,
+    "description": "Comprehensive eye examination including vision screening, prescription updates, and early detection of eye conditions.",
+    "icon": "👁️",
+    "color": "from-amber-500 to-orange-600"
+  },
+  {
+    "id": "opd-consultation",
+    "category": "OPD",
+    "title": "General OPD Consultation",
+    "coverage": 75,
+    "description": "Outpatient department consultations with general practitioners for common health concerns, prescriptions, and medical advice.",
+    "icon": "🏥",
+    "color": "from-rose-500 to-pink-600"
+  },
+  {
+    "id": "dental-root-canal",
+    "category": "Dental",
+    "title": "Root Canal Treatment",
+    "coverage": 65,
+    "description": "Advanced endodontic treatment to save infected teeth, including cleaning, shaping, and sealing of root canals.",
+    "icon": "🦷",
+    "color": "from-violet-500 to-purple-600"
+  }
+]
