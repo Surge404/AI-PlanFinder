@@ -163,18 +163,19 @@ This service file is the single interface for all AI operations. It abstracts th
 
 -----
 
-## 5\. Screenshots / Screen Recording
+## 5. Screenshots / Screen Recording
 
-| Screen | Description |
+| **Screen** | **Description** |
 | :--- | :--- |
-| **Input Screen** | Creative UI with floating elements, Dark Mode toggle, and a clear call-to-action for the user query. |
+| **Input Screen** | Creative UI with floating elements, **Dark Mode** toggle, and a clear call-to-action for the user query. |
+| <img width="1920" alt="Input Screen" src="https://github.com/user-attachments/assets/b6248a68-1ce8-4add-81cb-875f1113bb1b" /> |  |
 | **Processing Screen** | Engaging loading state with **Framer Motion** animations to mask AI latency. |
+
+| <img width="1920" alt="Processing Screen 2" src="https://github.com/user-attachments/assets/721bb6a4-c492-459d-91a6-f8fcf89e40c1" /> |  |
 | **Benefits List** | Dynamically filtered benefit cards with coverage badges and category tags based on AI classification. |
-| **Benefit Details** | Full benefit overview alongside the structured, 3-step AI-generated action plan. |
-
-> 
-
------
+| <img width="1920" alt="Benefits List" src="https://github.com/user-attachments/assets/8cf39f32-7614-48db-b1ce-54110ff3133a" /> |  |
+| **Benefit Details** | Full benefit overview alongside the structured, **3-step AI-generated action plan**. |
+| <img width="1920" alt="Benefit Details" src="https://github.com/user-attachments/assets/d742d4e2-8571-406d-82b6-e6053e6d7fe1" /> |  |
 
 ## 6\. Known Issues / Improvements
 
