@@ -1,4 +1,8 @@
 
+
+
+
+
 ````markdown
 # 💡 AI-Powered Benefits Discovery Flow
 
@@ -176,7 +180,7 @@ This service file is the single interface for all AI operations. It abstracts th
 | <img width="1920" alt="Benefits List" src="https://github.com/user-attachments/assets/8cf39f32-7614-48db-b1ce-54110ff3133a" /> |  |
 | **Benefit Details** | Full benefit overview alongside the structured, **3-step AI-generated action plan**. |
 | <img width="1920" alt="Benefit Details" src="https://github.com/user-attachments/assets/d742d4e2-8571-406d-82b6-e6053e6d7fe1" /> |  |
-
+https://github.com/user-attachments/assets/79d19cab-7657-40aa-aed3-b892604ef609
 ## 6\. Known Issues / Improvements
 
 ### Known Issues
