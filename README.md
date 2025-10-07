@@ -8,7 +8,7 @@
 
 An intelligent, interactive web application that leverages **Google Gemini AI** to help users instantly discover and understand their health and wellness benefits. Built with a modern, non-traditional UI and stunning animations for an engaging user experience.
 
-<img src="https://via.placeholder.com/800x400.png?text=Screenshot+of+Input+Screen+with+Glassmorphism+and+Gradient+Background" alt="Conceptual screenshot of the AI-Powered Benefits Discovery Flow application's input screen with a glassmorphism card over a vibrant gradient background."/>
+
 
 ---
 
