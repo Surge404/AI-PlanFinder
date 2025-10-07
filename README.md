@@ -45,8 +45,8 @@ npm start
 
 A hosted demo or screen recording showcasing the full flow is available:
 
-  - **Web Demo**: [Link to your hosted application]
-  - **Screen Recording**: [Link to your screen recording]
+  - **Web Demo**: (https://ai-plan-finder.vercel.app/)
+  - **Screen Recording**:(https://drive.google.com/file/d/1OZkHIVA5lb992d2guIzKb7WfK8igslwR/view?usp=sharing)
 
 -----
 
